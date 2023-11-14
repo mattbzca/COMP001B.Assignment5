@@ -36,27 +36,41 @@ h1, h2, h3 {
 }
 
 h1 {
-
+	text-align: center;
+	font-weight: 500;
 }
 
 h2 {
-
+	margin-bottom: 2%;
+	margin-top: 2%;
+	font-family:'proxima-nova', sans-serif;
+	font-weight: 520;
 }
 
 h3 {
-	
+	font-family:'proxima-nova', sans-serif;
+	font-style: italic;
+	font-weight: 250;
 }
 
 header {
-	
+	width: 25%;
+	float: left;
+	background-color: rgb(168, 159, 159);
+	font-family: 'proxima-nova', sans-serif;
 }
 
 main {
-
+	width: 50%;
+	float: left;
+	margin: 6em;
+	background-color: white;
 }
 
 p {
-
+	margin-bottom: 1.5%;
+	font-family:'raleway', sans-serif;
+	font-weight: 150;
 }
 
 #intro {
